@@ -1,1 +1,1 @@
-# Pneumonia-Detection--X-Ray--CNN
+# Pneumonia-Detection-X-Ray-CNN
