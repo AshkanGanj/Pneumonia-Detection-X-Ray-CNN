@@ -1,5 +1,7 @@
 # Pneumonia-Detection-X-Ray-CNN
 
+In this project, I am going to create a conventional network for classifying x-ray images as normal or pneumonia.
+
 ## Introduction for dataset
 
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
@@ -20,3 +22,10 @@ Simple sequential model is used, starting with 2 convolutional networks of kerne
 ### Summary of model
 
 ![image](https://user-images.githubusercontent.com/55941654/134182996-1bfbe7e7-36d4-405c-b558-867f4e9ea980.png)
+
+## Results
+I run model for 10 epochs and got bellow result ( we can get better result at higher epochs)
+### loss and accuracy
+
+![image](https://user-images.githubusercontent.com/55941654/134183586-ad548d52-562e-41ef-8114-c3de454d04d4.png)
+### confusion matrix
