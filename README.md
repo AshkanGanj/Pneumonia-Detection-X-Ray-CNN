@@ -21,6 +21,10 @@ As it is evident, we have imbalanced data in both training and validating set so
 
 ![image](https://user-images.githubusercontent.com/55941654/134184211-1202bf43-d660-4ecd-92fd-bea6c391ab9c.png)
 
+## Preview sample images
+
+![image](https://user-images.githubusercontent.com/55941654/134184814-31a0ced4-ba21-4f81-9a36-3d345dc90c7a.png)
+
 
 ## ConvNet Architecture
 
