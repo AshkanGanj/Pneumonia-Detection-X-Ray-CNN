@@ -33,10 +33,9 @@ Simple sequential model is used, starting with 2 convolutional networks of kerne
 ### Summary of model
 
 I ran the model for ten epochs and got bellow results ( we can get a better result at higher epochs).
-![image](https://user-images.githubusercontent.com/55941654/134185649-29c85f70-b569-4b47-bc63-4170ecc5eaa0.png)
 
 ### loss and accuracy
 
-![image](https://user-images.githubusercontent.com/55941654/134183586-ad548d52-562e-41ef-8114-c3de454d04d4.png)
+![image](https://user-images.githubusercontent.com/55941654/134185649-29c85f70-b569-4b47-bc63-4170ecc5eaa0.png)
 
 ### confusion matrix
