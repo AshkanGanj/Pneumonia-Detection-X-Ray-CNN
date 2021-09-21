@@ -31,6 +31,9 @@ As it is evident, we have imbalanced data in both training and validating set so
 Simple sequential model is used, starting with 2 convolutional networks of kernel size (7,7) and max pooling with pool size (3,3), followed by 2 convolutional networks of kernel size (7,7) and same pool size and finalized by several repeating sets of 2 convolutional networks of kernel size (3,3) with max pooling and pool size (2,2).
 
 ### Summary of model
+![image](https://user-images.githubusercontent.com/55941654/134191450-c48f8226-ffa8-463d-becc-92daf1bf3077.png)
+
+## Result
 
 I ran the model for ten epochs and got bellow results ( we can get a better result at higher epochs).
 
@@ -39,3 +42,9 @@ I ran the model for ten epochs and got bellow results ( we can get a better resu
 ![image](https://user-images.githubusercontent.com/55941654/134185649-29c85f70-b569-4b47-bc63-4170ecc5eaa0.png)
 
 ### confusion matrix
+
+![image](https://user-images.githubusercontent.com/55941654/134191126-532d470d-384e-4444-aced-27fabddc1c86.png)
+
+## Test
+![image](https://user-images.githubusercontent.com/55941654/134191234-ecd671f3-e907-4a6b-b33c-060596f98a48.png)
+
