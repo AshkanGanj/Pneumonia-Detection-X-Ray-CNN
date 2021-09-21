@@ -15,6 +15,13 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 URL: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+## Data visualization
+
+As it is evident, we have imbalanced data in both training and validating set some we should solve this problem by creating new data with data augmentation.
+
+![image](https://user-images.githubusercontent.com/55941654/134184211-1202bf43-d660-4ecd-92fd-bea6c391ab9c.png)
+
+
 ## ConvNet Architecture
 
 Simple sequential model is used, starting with 2 convolutional networks of kernel size (7,7) and max pooling with pool size (3,3), followed by 2 convolutional networks of kernel size (7,7) and same pool size and finalized by several repeating sets of 2 convolutional networks of kernel size (3,3) with max pooling and pool size (2,2).
