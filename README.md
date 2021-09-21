@@ -19,7 +19,7 @@ URL: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 As it is evident, we have imbalanced data in both training and validating set some we should solve this problem by creating new data with data augmentation.
 
-![image](https://user-images.githubusercontent.com/55941654/134184211-1202bf43-d660-4ecd-92fd-bea6c391ab9c.png)
+![image](https://user-images.githubusercontent.com/55941654/134185617-2ef897b6-c65a-4ecc-a047-7117921790dd.png)
 
 ## Preview sample images
 
@@ -33,8 +33,7 @@ Simple sequential model is used, starting with 2 convolutional networks of kerne
 ### Summary of model
 
 I ran the model for ten epochs and got bellow results ( we can get a better result at higher epochs).
-
-![image](https://user-images.githubusercontent.com/55941654/134182996-1bfbe7e7-36d4-405c-b558-867f4e9ea980.png)
+![image](https://user-images.githubusercontent.com/55941654/134185649-29c85f70-b569-4b47-bc63-4170ecc5eaa0.png)
 
 ### loss and accuracy
 
