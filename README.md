@@ -20,7 +20,7 @@ URL: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## Data visualization
 
-As it is evident, we have imbalanced data in both training and validating set some we should solve this problem by creating new data with data augmentation.
+As it is evident, we have imbalanced data in both training and validating set so we should solve this problem by creating new data with data augmentation.
 
 ![image](https://user-images.githubusercontent.com/55941654/134185617-2ef897b6-c65a-4ecc-a047-7117921790dd.png)
 
